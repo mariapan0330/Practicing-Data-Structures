@@ -1,0 +1,78 @@
+{
+    "languages":
+    {
+        "Python":
+        {
+            "years": 3,
+            "level": "intermediate",
+            "opinion": "love it"
+        },
+        "JavaScript":
+        {
+            "years": 0.6,
+            "level": "beginner",
+            "opinion": "love it"
+        },
+        "Java":
+        {
+            "years": 3,
+            "level": "intermediate",
+            "opinion": "love it"
+        },
+        "HTML":
+        {
+            "years": 0.6,
+            "level": "beginner",
+            "opinion": "I like boxes"
+        },
+        "CSS":
+        {
+            "years": 0.6,
+            "level": "beginner",
+            "opinion": "so much left to learn"
+        },
+        "SQL":
+        {
+            "years": 0.1,
+            "level": "beginner",
+            "opinion": "I will if I have to"
+        }
+    },
+    "frameworks":
+    {
+        "Bootstrap":
+        {
+            "years": 0.6,
+            "level": "intermediate",
+            "opinion": "love it"
+        },
+        "Flask":
+        {
+            "years": 0.6,
+            "level": "beginner",
+            "opinion": "lots to learn"
+        },
+        "React":
+        {
+            "years": 0.6,
+            "level": "beginner",
+            "opinion": "love it and lots to learn"
+        }
+    },
+
+    "databases":
+    {
+        "NoSQL":
+        {
+            "years": 0.6,
+            "level": "beginner",
+            "opinion": "no opinion lol"
+        },
+        "PostgreSQL":
+        {
+            "years": 0.6,
+            "level": "beginner",
+            "opinion": "don't know enough of it"
+        }
+    }
+}
