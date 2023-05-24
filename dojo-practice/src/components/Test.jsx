@@ -11,7 +11,6 @@ export default function Test() {
     console.log(hideBox)
 
     const formHandler = (e) => {
-        // console.log(e.target.value)
         setVal(e.target.value)
     }
 
@@ -26,7 +25,6 @@ export default function Test() {
         //     setHideBox(true)
         // }
     }
-
 
     return (
         <div>
